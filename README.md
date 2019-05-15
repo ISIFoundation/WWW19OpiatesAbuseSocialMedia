@@ -8,6 +8,8 @@ This repository contain results from the following paper:
     a Digital Cohort. In Proceedings of the 2019 World Wide Web Conference
     (WWW ’19), May 13–17, 2019, San Francisco, CA, USA. ACM, New York, NY,
     USA, 7 pages. https://doi.org/10.1145/3308558.3313634
+     
+https://dl.acm.org/citation.cfm?doid=3308558.3313634
 
 The file `term_weights.csv.gz` contains the list of vocabulary terms ranked
 by score, according to Eq. 3 in the paper.
